@@ -4,7 +4,7 @@ Numbered migration files applied in order, with a version table.
 
 ## Why
 
-Written while learning the language properly, and kept because it still works.
+Mostly written for my own projects, but it may be useful to someone else.
 
 ## Install
 
